@@ -1,5 +1,2 @@
-# multix-amsterdam.github.io
-
-This repository hosts the code for the MultiX lab website, using the following template:
+This repository was made using the following template:
 - https://github.com/yenchiah/project-website-template
-# mma-2024-2025
